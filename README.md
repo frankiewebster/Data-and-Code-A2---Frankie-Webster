@@ -1,11 +1,11 @@
 # Data-and-Code-A2---Frankie-Webster
-Project Name
-Outline a brief description of your project. Live demo here.
+##The Singing Toothbrush Timer 
+The Singing Toothbrush Timer is designed for kids to enjoy and learn while cleaning their teeth. Designed to function from a micro:bit, once started it will play a song for 120 seconds. However, at every 30 seconds, a new sound will play, indicating to change quadrants or sides of the mouth; this will be repeated 3 times. Once completed, the micro:bit will stop, and the teeth cleaning will be done. While it is still a working prototype, all the functions work properly. However, some improvements/extensions could be made if time allows. 
 
-Table of Contents
-General Info
-Technologies Used
-Features
+###Technologies Used
+The coding was completed on the platform of Microsoft Makecode and Micro:bit python editor, all of which were coded in Python. Hardware technologies also included the V2 micro:bit and a clear protective case for it. For training purposes the micro:bit V1 was also used.  
+
+###Features
 Screenshots
 Setup
 Usage
