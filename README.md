@@ -39,7 +39,7 @@ Proceed to describe how to install / setup one's local environment / get started
 Usage
 How does one go about using it? Provide various use cases and code examples here.
 
-write-your-code-here
+(https://makecode.microbit.org/_iaUeMpP5UUch) 
 
 Project Status
 Project is: in progress / complete / no longer being worked on. If you are no longer working on it, provide reasons why.
