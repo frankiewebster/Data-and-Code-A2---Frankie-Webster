@@ -68,7 +68,27 @@ One song is only programmed to play, so this may become boring for the user when
 
 1. James, G., Silverman, B., Silverman, B., & Spittles, E. (2015, November 27). ARM1 Gate-level Simulation. Visual6502.org. http://www.visual6502.org/sim/varm/armgl.htmlLinks to an external site.
 2. Cousins, C. (2018, July 18). Vector vs. Raster: What Do I Use? designshack.net; Design Shack. https://designshack.net/articles/layouts/vector-vs-raster-what-do-i-use/ Links to an external site.
-3. 
+3. Łyczywek, R. (2018, October 15). How to write a good README for your GitHub project? Bulldogjob.com; Bulldogjob. https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
+4. Donat, W. (2017). Getting started with the micro:bit : coding and making with the BBC’s Open Development Board (First edition.). Maker Media.
+5. Tollervey, N. H. (2017). About the Author. In Programming with MicroPython. O’Reilly Media, Incorporated.
+6. Microsoft MakeCode. (2020, July 15). MakeCode for micro:bit - Stopwatch progress. YouTube. https://www.youtube.com/watch?v=2aAcBP2xcaI&list=PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC
+7. Coding Ireland. (2019, October 16). Microbit Project - Toothbrush Timer. YouTube. https://www.youtube.com/watch?v=Y6RQFpyg7mc
+8. micro:bit Frère Jacques loops. (2024). Microbit.org. https://microbit.org/projects/make-it-code-it/frere-jacques-tune/
+9. Bluetooth Pairing. (n.d.). Microsoft MakeCode. https://makecode.microbit.org/v0/reference/bluetooth/bluetooth-pairing
+10. Microsoft MakeCode. (2020, May 5). MakeCode for micro:bit - Melody Block and Multi Editor! YouTube. https://www.youtube.com/watch?v=IkZKTzp7H0k
+
+‌
+‌ 
+
+‌ 
+
+‌ 
+
+‌ 
+ 
+ 
+
+‌ 
 
 
 **Contact** 
