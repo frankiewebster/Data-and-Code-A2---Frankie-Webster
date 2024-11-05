@@ -127,6 +127,6 @@ https://makecode.microbit.org/_i7i47Kb832UA
 
 **This project was inspired by** 
 
-The song was inspired by twinkle twinkle little star, correctly targeting the key public. The Lullaby vibe of the song reflects a nigh-time routine and early morning. 
+The song was inspired by twinkle twinkle little star, correctly targeting the key public. The Lullaby vibe of the song reflects a night-time routine and early morning. 
 The image of the star on the micro:bit also reflects this. 
 This has also been inspired by a toothbrush I used to have as a child; it used to play a song sung by Rhianna and have positive connotations to those memories. 
