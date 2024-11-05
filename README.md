@@ -20,9 +20,13 @@ Project is used with:
 **Setup**: 
 
 To run this project, a V2 and/or V1 micro bit is needed and its other requirements provided in the box: 
-1. cord
-2. battery pack and AAA batteries 
+1. Cord provided 
+2. Battery pack and AAA batteries 
 3. USBC to USB connector if required
+
+*If using a V1 micro:bit*: 
+1. Corded headphones
+2. Crocodile Clips 
 
 *If using a V2 microbit*:
 1. Download the provided code as a hex file onto your computer.
@@ -35,17 +39,26 @@ To run this project, a V2 and/or V1 micro bit is needed and its other requiremen
 Please note, the clear plastic protetcive case does not fit on the V2 micro:bit due to the speaker on the back.
 
 *If using a V1 micro:bit*: 
-Complete steps 1-7 steps mentioned above. 
-8. To play the sound externally, download the micro:bit app onto your phone 
-9. Once downloaded, press manage connections in the app
-10. Follow the steps provided. 
-11. The sound now should play through your phone using its Bluetooth features. 
+1. Complete steps 1-7 steps mentioned above.
+2. To play the sound externally, gather crocidle clips.
+3. Connect the first crocodile clip to the GND pin and the second crocodile clip to the 0 pin
+4. Connnect the GND mounted clip to the tip of te headphone jack and connect the 0 pin clip to the base of the jack.
+5. The sound should now play through the headphones after pressing a on the Micro:bit V1 
 
 **Screenshots**: 
 
-*See screenshots for Bluetooth connection assistance* 
-![IMG_3587](https://github.com/user-attachments/assets/e627dcfe-3cac-4783-9717-bc194bbba899)
-![IMG_3586](https://github.com/user-attachments/assets/e8097dcf-f7e1-48d0-8907-80d208176e38)
+*See screenshots for Headphone connection*
+
+
+<img width="543" alt="Screenshot 2024-11-05 at 12 36 31 pm" src="https://github.com/user-attachments/assets/9e9995aa-f5a0-4b5c-9329-15aa28ddd8de">
+
+
+
+
+
+
+<img width="408" alt="Screenshot 2024-11-05 at 12 34 57 pm" src="https://github.com/user-attachments/assets/3f17c049-097f-4168-8729-d362bf49c60e">
+
 
 
 **Project Status**: 
@@ -54,14 +67,18 @@ Prototyping Stage
 
 **Features**: 
 
-Press b to mute song, star and images every 30 seconds will still play 
-Press a and b to turn volume back on 
-Every 30 seconds of the song, a new sound and image will play, indicating that a new side of the mouth is to be brushed. 
+1. Press b to mute song, star and images every 30 seconds will still play
+2. Press a and b to turn volume back on
+3. Every 30 seconds of the song, a new sound and image will play, indicating that a new side of the mouth is to be brushed. 
 
 **Room for Improvement**: 
 
-No button can currently pause the timer; only mute it. 
-One song is only programmed to play, so this may become boring for the user when used twice a day. 
+1. No button can currently pause the timer; only mute it.
+2. One song is only programmed to play, so this may become boring for the user when used twice a day.
+3. V1 provides too many cords and removes level of safety and feasability
+4. Protective case does not fit on V2 micro:bit
+5. Waterproof bag is too big for both micro:bit's - design and produce a tight fitting sleeve
+
 
 
 **Resources** 
