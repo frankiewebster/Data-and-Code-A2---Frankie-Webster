@@ -121,9 +121,9 @@ Please note that the micro:bit is not waterproof.
 
 **Access my code here** 
 
-https://makecode.microbit.org/_i7i47Kb832UA
+https://makecode.microbit.org/_AAM2t9fjx696 
 
-*Please note my structure of code in Python viewing resets to its default viewing of blocks every time it is accessed, which changes the formation of my code and comments; while my code functions remain the same, the order gets moved. Please refer to my video and the code screenshots to see its correct format* 
+*Please note my structure of code in Python viewing may reset to its default viewing of blocks every time it is accessed, which changes the formation of my code and comments; while my code functions remain the same, the order gets moved. Please refer to my video and the code screenshots to see its correct format* 
 
 **This project was inspired by** 
 
