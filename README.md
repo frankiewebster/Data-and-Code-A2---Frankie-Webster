@@ -83,30 +83,34 @@ Prototyping Stage
 
 **Resources** 
 
-1. James, G., Silverman, B., Silverman, B., & Spittles, E. (2015, November 27). ARM1 Gate-level Simulation. Visual6502.org. http://www.visual6502.org/sim/varm/armgl.htmlLinks to an external site.
-2. Cousins, C. (2018, July 18). Vector vs. Raster: What Do I Use? designshack.net; Design Shack. https://designshack.net/articles/layouts/vector-vs-raster-what-do-i-use/ Links to an external site.
-3. Łyczywek, R. (2018, October 15). How to write a good README for your GitHub project? Bulldogjob.com; Bulldogjob. https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
-4. Donat, W. (2017). Getting started with the micro:bit : coding and making with the BBC’s Open Development Board (First edition.). Maker Media.
-5. Tollervey, N. H. (2017). About the Author. In Programming with MicroPython. O’Reilly Media, Incorporated.
-6. Microsoft MakeCode. (2020, July 15). MakeCode for micro:bit - Stopwatch progress. YouTube. https://www.youtube.com/watch?v=2aAcBP2xcaI&list=PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC
-7. Coding Ireland. (2019, October 16). Microbit Project - Toothbrush Timer. YouTube. https://www.youtube.com/watch?v=Y6RQFpyg7mc
-8. micro:bit Frère Jacques loops. (2024). Microbit.org. https://microbit.org/projects/make-it-code-it/frere-jacques-tune/
-9. Bluetooth Pairing. (n.d.). Microsoft MakeCode. https://makecode.microbit.org/v0/reference/bluetooth/bluetooth-pairing
-10. Microsoft MakeCode. (2020, May 5). MakeCode for micro:bit - Melody Block and Multi Editor! YouTube. https://www.youtube.com/watch?v=IkZKTzp7H0k
+Berry, D. (2011). The philosophy of software : Code and mediation in the digital age. Palgrave Macmillan UK. https://ebookcentral.proquest.com/lib/uts/reader.action?docID=678782&ppg=40&pq-origsite=primo 
 
-‌
-‌ 
+Coding Ireland. (2019, October 16). Microbit Project - Toothbrush Timer. YouTube. [Video] https://www.youtube.com/watch?v=Y6RQFpyg7mc
 
-‌ 
+Cousins, C. (2018, July 18). Vector vs. Raster: What Do I Use? designshack.net; Design Shack. https://designshack.net/articles/layouts/vector-vs-raster-what-do-i-use/ 
 
-‌ 
+Donat, W. (2017). Programming in micropython. In Getting started with the micro:bit : coding and making with the BBC’s Open Development Board. Maker Media. oreilly.com/catalog/errata.csp?isbn=9781680453027 
 
-‌ 
+Coding Ireland. (2021, December 3). Audio Bit Depth and Sample Rate Explained. YouTube. [Video] https://www.youtube.com/watch?v=xJKypZXc3B4 
+
+LANDR. (2020, February 7). Music Scales Explained in 6 Minutes. YouTube. [Video] https://youtu.be/PG_u4NDJtwU?si=jDiIvxOuZ1g7hSiz
+
+Stapleton, A. (2024). Code [Subject 52685 tutorial notes]. UTS Canvas. https://canvas.uts.edu.au/courses/33108/pages/week-02-code?module_item_id=1898048
+
+MakeCode, Microsoft (n.d.) Twinkle Twinkle Microstar tutorial. https://makecode.microbit.org/54381-29410-68568-94948
+
+MakeCode, Microsoft (n.d.) micro:bit animated animals. https://microbit.org/projects/make-it-code-it/animated-animals/
+
+Micro Educational Foundation. (n.d.). Connecting headphones or a speaker to the micro. MicroSupport. https://support.microbit.org/support/solutions/articles/19000101901-connecting-headphones-or-a-speaker-to-the-micro-bit
+
+Micro:bit.(n.d) Using micro:bit with an Apple iPad or Android tablet. https://microbit.org/get-started/user-guide/mobile/ 
+
+Micro:bit.(n.d) Sound Output. 
+https://microbit.org/get-started/user-guide/mobile/ 
+
+Tollervey, N. (2019). Programming with MicroPython. In Music and Sound. O'Reilly Media, Inc. https://learning.oreilly.com/library/view/programming-with-micropython/9781491972724/ix01.html 
+
  
- 
-
-‌ 
-
 
 **Contact** 
 
