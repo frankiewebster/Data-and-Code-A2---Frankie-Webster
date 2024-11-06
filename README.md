@@ -39,13 +39,13 @@ To run this project, a V2 and/or V1 micro bit is needed and its other requiremen
 Please note, the clear plastic protetcive case does not fit on the V2 micro:bit due to the speaker on the back.
 
 *If using a V1 micro:bit*: 
-1. Complete steps 1-7 steps mentioned above.
-2. To play the sound externally, gather crocidle clips.
-3. Connect the first crocodile clip to the GND pin and the second crocodile clip to the 0 pin
-4. Connnect the GND mounted clip to the tip of te headphone jack and connect the 0 pin clip to the base of the jack.
-5. The sound should now play through the headphones after pressing a on the Micro:bit V1 
+1. Complete steps 1-7.
+2. To play the sound externally, gather crocodile clips.
+3. Connect the first crocodile clip to the GND pin and the second crocodile clip to the 0-pin
+4. Connect the GND-mounted clip to the tip of the headphone jack and connect the 0-pin clip to the jack base.
+5. The sound should now play through the headphones after pressing an on the Micro:bit V1 
 
-*please note a toothbrush is not technically needed to run this project* 
+*Please note a toothbrush is not technically needed to run this project* 
 
 
 **Screenshots**: 
@@ -123,7 +123,7 @@ frankie.e.webster@student.uts.edu.au
 **Usage**
 
 This is intended to be used in a bathroom setting as it is used for a toothbrush timer. 
-Although, due to its portability it can be used in many other environments. 
+However, due to its portability, it can be used in many other environments. 
 Please note that the micro:bit is not waterproof. 
 
 **Access my code here** 
