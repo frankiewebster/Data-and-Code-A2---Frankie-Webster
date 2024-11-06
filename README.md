@@ -45,6 +45,9 @@ Please note, the clear plastic protetcive case does not fit on the V2 micro:bit 
 4. Connnect the GND mounted clip to the tip of te headphone jack and connect the 0 pin clip to the base of the jack.
 5. The sound should now play through the headphones after pressing a on the Micro:bit V1 
 
+*please note a toothbrush is not technically needed to run this project* 
+
+
 **Screenshots**: 
 
 *See screenshots for Headphone connection*
