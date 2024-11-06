@@ -131,6 +131,7 @@ Please note that the micro:bit is not waterproof.
 https://makecode.microbit.org/_AAM2t9fjx696 
 
 *Please note my structure of code in Python viewing may reset to its default viewing of blocks every time it is accessed, which changes the formation of my code and comments; while my code functions remain the same, the order gets moved. Please refer to my video and the code screenshots to see its correct format* 
+See correct format of code here if needed - https://www.canva.com/design/DAGVevbHgzQ/BZTfmD20IJh3-789yrjnaQ/view?utm_content=DAGVevbHgzQ&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
 **This project was inspired by** 
 
